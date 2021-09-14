@@ -14,11 +14,10 @@ app_license = "MIT"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/language_translator/css/language_translator.css"
-# app_include_js = "/assets/language_translator/js/language_translator.js"
-
+app_include_js = "/assets/language_translator/js/desk.js"
 # include js, css files in header of web template
 # web_include_css = "/assets/language_translator/css/language_translator.css"
-# web_include_js = "/assets/language_translator/js/language_translator.js"
+web_include_js = "/assets/language_translator/js/webpage.js"
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "language_translator/public/scss/website"
@@ -172,4 +171,3 @@ user_data_fields = [
 # auth_hooks = [
 # 	"language_translator.auth.validate"
 # ]
-
