@@ -9,6 +9,6 @@ This custom app add a language translator to the top navbar of Frappe Desk/Web p
 - bench restart
 
 ## Screenshot
-![First screen](https://github.com/mymi14s/language_translator/src/1.png "First screen")
-![Select language](https://github.com/mymi14s/language_translator/src/2.png "Select language")
-![Language changed](https://github.com/mymi14s/language_translator/src/3.png "Language changed")
+![First screen](https://github.com/mymi14s/language_translator/blob/master/src/1.png "First screen")
+![Select language](https://github.com/mymi14s/language_translator/blob/master/src/2.png "Select language")
+![Language changed](https://github.com/mymi14s/language_translator/blob/master/src/3.png "Language changed")
